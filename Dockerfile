@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-ENV MKDOCS_VERSIO="0.16.3"
+ENV MKDOCS_VERSIO="0.17.1"
 
 RUN \
     apk add --update \
